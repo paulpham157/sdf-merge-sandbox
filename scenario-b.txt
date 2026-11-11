@@ -1,0 +1,1 @@
+Hello from squash-merge scenario B.
